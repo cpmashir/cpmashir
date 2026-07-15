@@ -21,7 +21,7 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Information Technology (Minor in ML/CSE) @ **Cochin University of Science and Technology** — CGPA 8.4/10.0
+- 🎓 B.Tech in Information Technology (Minor in ML/CSE) @ **Cochin University of Science and Technology**
 - 🎓 Pursuing **BS in Data Science & Applications** @ **IIT Madras**
 - 💼 Currently **IT Solutions Intern (Full Stack Developer)** @ Reliable Industrial Services LLC
 - 🔬 Research Intern @ **IIIT Ranchi** — Machine Learning & NLP
